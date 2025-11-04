@@ -86,4 +86,4 @@ Hi — I zipped a small Python project called *MicroShopAssistant*. Unzip it, op
 
 If you want, I can also provide a one-click Windows PowerShell script to automate venv creation + install. Let me know.
 
-Enjoy! — Animesh
+
