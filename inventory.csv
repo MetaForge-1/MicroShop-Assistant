@@ -1,0 +1,97 @@
+item,stock,threshold,supplier,email
+Sugar,4,10,Raj Traders,raj@supplier.com
+Rice,15,10,Arya Foods,arya@supplier.com
+Oil,2,8,Kiran Traders,kiran@supplier.com
+Salt,20,15,Bharat Supply,bharat@supplier.com
+Flour,7,12,Raj Traders,raj@supplier.com
+Tea,5,10,Arya Foods,arya@supplier.com
+Coffee,3,8,Kiran Traders,kiran@supplier.com
+Biscuits,25,30,Bharat Supply,bharat@supplier.com
+Toothpaste,6,12,Raj Traders,raj@supplier.com
+Soap,10,15,Arya Foods,arya@supplier.com
+Shampoo,8,20,Kiran Traders,kiran@supplier.com
+Detergent,4,10,Bharat Supply,bharat@supplier.com
+Toothbrush,2,8,Raj Traders,raj@supplier.com
+Deodorant,3,10,Arya Foods,arya@supplier.com
+Cereal,18,25,Kiran Traders,kiran@supplier.com
+Pulses,12,18,Bharat Supply,bharat@supplier.com
+Masala,5,12,Raj Traders,raj@supplier.com
+Honey,3,10,Arya Foods,arya@supplier.com
+Jam,9,15,Kiran Traders,kiran@supplier.com
+Pickles,4,10,Bharat Supply,bharat@supplier.com
+Bread,8,15,Raj Traders,raj@supplier.com
+Butter,6,12,Arya Foods,arya@supplier.com
+Cheese,2,10,Kiran Traders,kiran@supplier.com
+Paneer,5,15,Bharat Supply,bharat@supplier.com
+Milk,30,25,Raj Traders,raj@supplier.com
+Curd,12,20,Arya Foods,arya@supplier.com
+Ghee,4,12,Kiran Traders,kiran@supplier.com
+Cornflakes,8,15,Bharat Supply,bharat@supplier.com
+Noodles,9,20,Raj Traders,raj@supplier.com
+Pasta,6,12,Arya Foods,arya@supplier.com
+Sauce,2,10,Kiran Traders,kiran@supplier.com
+Vinegar,3,8,Bharat Supply,bharat@supplier.com
+Ketchup,7,15,Raj Traders,raj@supplier.com
+Juice,5,12,Arya Foods,arya@supplier.com
+Cold Drinks,4,15,Kiran Traders,kiran@supplier.com
+Snacks,18,25,Bharat Supply,bharat@supplier.com
+Spices,3,10,Raj Traders,raj@supplier.com
+Dal,8,15,Arya Foods,arya@supplier.com
+Chips,6,10,Kiran Traders,kiran@supplier.com
+Soft Drinks,4,10,Bharat Supply,bharat@supplier.com
+Candies,15,20,Raj Traders,raj@supplier.com
+Chocolate,9,15,Arya Foods,arya@supplier.com
+Cookies,10,18,Kiran Traders,kiran@supplier.com
+Maggie,5,12,Bharat Supply,bharat@supplier.com
+Pasta Sauce,3,10,Raj Traders,raj@supplier.com
+Batter,8,15,Arya Foods,arya@supplier.com
+Mayo,6,12,Kiran Traders,kiran@supplier.com
+Ketchup Pack,2,8,Bharat Supply,bharat@supplier.com
+Ice Cream,12,20,Raj Traders,raj@supplier.com
+Frozen Peas,10,15,Arya Foods,arya@supplier.com
+Frozen Corn,5,12,Kiran Traders,kiran@supplier.com
+Pickle Jar,3,10,Bharat Supply,bharat@supplier.com
+Baking Soda,7,12,Raj Traders,raj@supplier.com
+Baking Powder,6,10,Arya Foods,arya@supplier.com
+Maida,4,10,Kiran Traders,kiran@supplier.com
+Rava,8,15,Bharat Supply,bharat@supplier.com
+Poha,10,20,Raj Traders,raj@supplier.com
+Vermicelli,5,12,Arya Foods,arya@supplier.com
+Mustard Oil,2,8,Kiran Traders,kiran@supplier.com
+Refined Oil,4,10,Bharat Supply,bharat@supplier.com
+Groundnut Oil,6,12,Raj Traders,raj@supplier.com
+Soybean Oil,8,15,Arya Foods,arya@supplier.com
+Coconut Oil,5,12,Kiran Traders,kiran@supplier.com
+Sunflower Oil,7,15,Bharat Supply,bharat@supplier.com
+Corn Oil,3,10,Raj Traders,raj@supplier.com
+Ragi Flour,6,10,Arya Foods,arya@supplier.com
+Wheat Flour,8,12,Kiran Traders,kiran@supplier.com
+Multigrain Flour,9,15,Bharat Supply,bharat@supplier.com
+Toor Dal,7,10,Raj Traders,raj@supplier.com
+Moong Dal,8,12,Arya Foods,arya@supplier.com
+Urad Dal,5,10,Kiran Traders,kiran@supplier.com
+Masoor Dal,4,8,Bharat Supply,bharat@supplier.com
+Chana Dal,3,10,Raj Traders,raj@supplier.com
+Rajma,7,12,Arya Foods,arya@supplier.com
+Kabuli Chana,9,15,Kiran Traders,kiran@supplier.com
+Kala Chana,6,10,Bharat Supply,bharat@supplier.com
+Green Gram,4,10,Raj Traders,raj@supplier.com
+Black Gram,8,15,Arya Foods,arya@supplier.com
+White Peas,3,10,Kiran Traders,kiran@supplier.com
+Brown Rice,6,12,Bharat Supply,bharat@supplier.com
+Basmati Rice,4,10,Raj Traders,raj@supplier.com
+Sona Masoori Rice,8,15,Arya Foods,arya@supplier.com
+Kolam Rice,5,12,Kiran Traders,kiran@supplier.com
+Jeera Rice,7,15,Bharat Supply,bharat@supplier.com
+Idli Rice,4,10,Raj Traders,raj@supplier.com
+Sugar Powder,6,12,Arya Foods,arya@supplier.com
+Rock Salt,5,10,Kiran Traders,kiran@supplier.com
+Black Salt,3,8,Bharat Supply,bharat@supplier.com
+White Salt,9,15,Raj Traders,raj@supplier.com
+Pepper Powder,7,10,Arya Foods,arya@supplier.com
+Turmeric,5,10,Kiran Traders,kiran@supplier.com
+Cumin,8,15,Bharat Supply,bharat@supplier.com
+Coriander,6,12,Raj Traders,raj@supplier.com
+Cardamom,3,8,Arya Foods,arya@supplier.com
+Cloves,5,12,Kiran Traders,kiran@supplier.com
+Cinnamon,4,10,Bharat Supply,bharat@supplier.com
